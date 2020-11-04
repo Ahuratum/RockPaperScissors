@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="my_choice">My Choice</string>
+    <string name="computer_choice">Computer Choice</string>
+    <string name="score">Score</string>
+    <string name="human">Human</string>
+    <string name="computer">Computer</string>
+    <string name="humChoice">iv_HumanChoice</string>
+    <string name="compChoice">iv_ComputerChoice</string>
+    <string name="Score">Score: Human 0 Computer 0</string>
+</resources>
